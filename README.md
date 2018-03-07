@@ -2,7 +2,7 @@
 
 Interview question:
 ```
-You are given a stack of completed games of Tic-tac-toe.  Write a function that returns who the winner is.
+You are given a stack of completed Tic-tac-toe games.  Write a function that returns who the winner is for each game.
 ```
 
 ## Getting Started
