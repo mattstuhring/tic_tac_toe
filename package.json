@@ -1,0 +1,15 @@
+{
+  "name": "interview_question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tic_tac_toe.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  }
+}
