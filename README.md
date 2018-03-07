@@ -25,6 +25,8 @@ $ npm install
 
 ## Running the tests
 
+Tests all possible winning positions for both x's & o's (horizontal, vertical, diagnol)
+
 Run Mocha tests
 
 ```
